@@ -1,1 +1,4 @@
-1 # Django Template
+# Django Template
+
+### Dictionary
+- REPL - read, evaluate, print, loop
